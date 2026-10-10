@@ -6,7 +6,7 @@
 Версия: 0.1  
 Команда: DockerCrew_itprac  
 Дата: 10.10.2026  
-Ссылка на репозиторий:
+Ссылка на репозиторий: https://github.com/MozzyGrr/DockerCrew_itprac
 
 ## 1. Цель и границы
 
